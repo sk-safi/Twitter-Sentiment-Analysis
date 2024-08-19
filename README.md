@@ -42,6 +42,4 @@ Sentiment analysis (also known as opinion mining) is one of the many application
 
 • XGBoost
 
-6. Model Fine-tuning
 
-7. Summary
